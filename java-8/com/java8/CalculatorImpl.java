@@ -1,4 +1,4 @@
-package com.java8features;
+package com.java8;
 
 interface Calculator {
     //void switchOn();

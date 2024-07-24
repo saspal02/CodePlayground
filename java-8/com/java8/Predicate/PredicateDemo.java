@@ -1,4 +1,4 @@
-package com.java8features.Predicate;
+package com.java8.Predicate;
 
 import java.util.Arrays;
 import java.util.List;

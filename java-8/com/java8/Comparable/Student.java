@@ -1,4 +1,4 @@
-package com.java8features.Comparable;
+package com.java8.Comparable;
 
 import java.util.ArrayList;
 import java.util.Collections;
