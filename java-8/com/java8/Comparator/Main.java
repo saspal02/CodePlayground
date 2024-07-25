@@ -13,7 +13,7 @@ public class Main {
         words.add("pineapple");
 
         // Create a Comparator to sort by length of strings
-        Comparator<String> Length = (s1, s2) -> Integer.compare(s1.length(), s2.length());
+        Comparator<String> Length = (s1, s2) -> Integer.compare(s1.length(),s2.length());
 
         // Sort the list using the comparator
         words.sort(Length);
